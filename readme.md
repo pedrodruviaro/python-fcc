@@ -7,3 +7,14 @@
 - 00:00 -> 27:04
 
   - instalação, sintaxe básica e tipos de dados
+
+## Day 02
+
+- 27:05 -> 1:40:06
+
+  - strings
+  - numbers and math
+  - input
+  - lists (and list methods)
+  - tuples
+  - functions

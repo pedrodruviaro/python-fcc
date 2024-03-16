@@ -21,6 +21,18 @@
 
 ## Day 03
 
-- 1:40:07 -
+- 1:40:07 - 2:20:03
 
-  - if/else
+  - if/else/elif
+  - dictionaries
+  - while loop
+
+## Day 04
+
+- 2:20:04 -
+
+  - for loops
+    - range() function
+    - nested loops
+  - try/except
+    - except with _as err_

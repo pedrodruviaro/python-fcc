@@ -18,3 +18,9 @@
   - lists (and list methods)
   - tuples
   - functions
+
+## Day 03
+
+- 1:40:07 -
+
+  - if/else
